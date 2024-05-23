@@ -4,3 +4,4 @@ all build with help of HTML, CSS and Vanilla JS
 to run any of them all you need is just web browser and open index.html on each of the carpet you want to see.
 Here is going list: 
 # 1. Calculator
+![alt text](assets/calculator_v1.png)
